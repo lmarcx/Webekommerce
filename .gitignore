@@ -1,0 +1,4 @@
+.env
+.env.docker
+vendor
+node_modules
